@@ -186,7 +186,27 @@ const stack = [
           <p>
             Je préfère toujours les rencontres en présentiel. J’habite en Normandie et me déplace régulièrement à Paris. Contactez-moi de préférence par mail, et je vous répondrai rapidement.
           </p>
-          <div class="grid grid-cols-4 gap-y-2 mt-4 auto-cols-min">
+          <br/>
+          <form
+              action="https://formspree.io/f/mjkbnlaz"
+              method="POST"
+            >
+            <label for="email" class="block font-medium leading-6 ">Votre email : </label>
+            <div class="mt-2">
+              <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+            </div>
+            <div class="col-span-full">
+              <label for="message" class="block leading-6 ">Votre message</label>
+              <div class="mt-2">
+                <textarea id="message" name="message" rows="3" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
+              </div>
+            </div>
+        
+            <div class="mt-6 flex items-center justify-end gap-x-6">
+              <button type="submit"  class="rounded-md px-3 py-2 text-sm font-semibold text-black dark:text-white shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 ">Envoyer</button>
+              </div>
+            </form>
+          <!-- <div class="grid grid-cols-4 gap-y-2 mt-4 auto-cols-min">
             {SOCIALS.map(social => (
               <div class="col-span-1 flex items-center gap-1">
                 <span class="whitespace-nowrap truncate">
@@ -201,7 +221,7 @@ const stack = [
                 </a>
               </div>
             ))}
-        </div>
+        </div> -->
       </section>
     </div>
   </div>
