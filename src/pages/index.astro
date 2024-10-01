@@ -12,10 +12,10 @@ const posts = (await getCollection("blog"))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
   .slice(0,3)
 
-const projects = (await getCollection("projects"))
-  .filter(project => !project.data.draft)
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
-  .slice(0,3)
+// const projects = (await getCollection("projects"))
+//   .filter(project => !project.data.draft)
+//   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime())
+//   .slice(0,3)
 
 const stack = [
   { 
@@ -166,7 +166,7 @@ const stack = [
       </section>
 
       <!-- Project Preview Section -->
-      <section class="animate">
+      <!-- <section class="animate">
         <div class="space-y-4">
           <div class="flex justify-between">
             <p class="font-semibold text-black dark:text-white">
@@ -186,7 +186,7 @@ const stack = [
             ))}
           </ul>
         </div>
-      </section>
+      </section> -->
 
       <!-- Contact Section -->
       <section class="animate">

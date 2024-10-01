@@ -19,11 +19,11 @@ export const BLOG: Page = {
   DESCRIPTION: "Writing on topics I am passionate about.",
 }
 
-// Projects Page 
-export const PROJECTS: Page = {
-  TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
-}
+// // Projects Page 
+// export const PROJECTS: Page = {
+//   TITLE: "Projects",
+//   DESCRIPTION: "Recent projects I have worked on.",
+// }
 
 // Search Page
 export const SEARCH: Page = {
@@ -44,11 +44,11 @@ export const LINKS: Links = [
   { 
     TEXT: "Blog", 
     HREF: "/blog", 
-  },
-  { 
-    TEXT: "Projects", 
-    HREF: "/projects", 
-  },
+  }
+  // { 
+  //   TEXT: "Projects", 
+  //   HREF: "/projects", 
+  // },
 ]
 
 // Socials
