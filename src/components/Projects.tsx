@@ -33,7 +33,7 @@ export default function Projects({ data, tags }: Props) {
 
   return (
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
-      <div class="col-span-3 sm:col-span-1">
+      {/* <div class="col-span-3 sm:col-span-1">
         <div class="sticky top-24">
           <div class="text-sm font-semibold uppercase mb-2 text-black dark:text-white">Filter</div>
           <ul class="flex flex-wrap sm:flex-col gap-1.5">
@@ -52,11 +52,11 @@ export default function Projects({ data, tags }: Props) {
             </For>
           </ul>
         </div>
-      </div>
-      <div class="col-span-3 sm:col-span-2">
+      </div> */}
+      <div class="col-span-6 sm:col-span-5">
         <div class="flex flex-col">
           <div class="text-sm uppercase mb-2">
-            SHOWING {projects().length} OF {data.length} PROJECTS
+            {projects().length} SUR {data.length} PROJETS
           </div>
           <ul class="flex flex-col gap-3">
             {projects().map((project) => (
