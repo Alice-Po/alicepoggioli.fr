@@ -9,8 +9,7 @@ tags:
 - CODs
 ---
 
-
-# C’est quoi un POD ?
+## C’est quoi un POD ?
 
 Aujourd’hui notre identité numérique est éparpillée à travers une diversité d'applications ce qui rend très compliqué sa maîtrise et sa gestion.
 
@@ -20,13 +19,13 @@ De plus, notre expérience du web en elle-même est dégradée à cause de cette
 
 Ces différentes raisons ont conduit la communauté Solid à développer le concept de POD, pour Personal Online Datastore. Un POD, c’est un endroit unique où l’on stocke son identité numérique au sens large et où l’on peut approuver ou révoquer à tout moment l'accès de telles ou telles données à telle ou telle application. Ainsi aucune copie de nos données n'est faite et la maîtrise de notre identité est grandement simplifiée.
 
-# Au-delà des PODs
+## Au-delà des PODs
 
 Dans la page de présentation de Solid, il est précisé qu’un des moteurs de la démarche est de se réapproprier le web, un web libre pour tous. Nous avons perdu de vue cet idéal initial car la mise en place d'une telle liberté nous confronte à une grande complexité. L'intérêt majeur de Solid c’est d’ajouter une dimension communautaire dans le partage de données. En lieu et place de se dire “Est ce que je suis d’accord de publier cet article sur le web ? ou sur cette plateforme ?” Je peux me dire qu'au-delà des plateformes, je décide de partager cet article avec telle personne, telle application ou tel écosystème.. On peut ainsi s’émanciper des plateformes et penser le web comme une vraie toile mutualisée. La confiance sur le web pourrait à nouveau se tisser via des réseaux d’humain davantage que sur la notoriété d’une plateforme qu’on sait aujourd’hui être un mauvais indicateur.
 
 Si on garde en tête cette pertinence qui est pour nous première, le POD est surtout notre échelle de souveraineté vis à vis de nos données en tant qu’individu. Ainsi, on peut le penser de façon individuelle mais il peut aussi recouvrir une dimension collective du moment que la question de la gouvernance de ces données est partagée.
 
-# Les PODS de chez nous
+## Les PODS de chez nous
 
 Dans le cadre des projets que nous développons avec SemApps ou Startin'Blox, nous n’avons pas de PODs à proprement parler. Nous n’avons pas ce besoin. Nous avons des clients pour qui nous déployons une solution et ces clients ne veulent pas fournir un POD à chacun de leurs utilisateurs.
 

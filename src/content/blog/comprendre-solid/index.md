@@ -14,7 +14,7 @@ SOLID est pensé comme une correction de mi-parcours pour le Web afin de réalis
 
 Le Web, pour Tim comme pour tous les enthousiastes de la première heure, était censé être un espace de liberté, de partage et de coopération où tout le monde pouvait lire et écrire de l’information. Le web était censé être un média collaboratif mais il s’est perdu en chemin.
 
-# La première vision du web : une liberté difficile à mettre en pratique
+## La première vision du web : une liberté difficile à mettre en pratique
 
 Les explorations actuelles sur les communs nous montrent à quel point il est difficile de dessiner un espace de liberté pour tous. Qui a le droit d’écrire ? Comment empêcher que n’importe qui écrive n’importe quoi ?
 
@@ -24,13 +24,13 @@ Devant cette complexité, les entreprises qui se sont emparées du web ont déve
 
 Cette simplification de l’usage du Web a été pour Tim Berners Lee, la première voie d’égarement sur ce qu’il devait être. En même temps, c’est cette simplification qui a permis au milieu des années 1990, l’ouverture du web au grand public.
 
-# La naissance des silos
+## La naissance des silos
 
 Dans les années 2000, arrive ce que l’on appelle le web 2.0. La notion d’écriture, c’est à dire la possibilité d’écrire de la donnée sur le web, réapparaît à travers les wikis, les blogs et les réseaux sociaux. Pour que cela soit possible, il a fallu mettre en place des mécanismes d’identification et d’authentification. A l’époque, il n’existait pas de standards reconnus internationalement sur cette problématique. C’est ainsi que des entreprises comme Facebook ont débarqué pour former l'océan bleu des réseaux sociaux, en montant leurs propres mécanismes d'identification, d'authentification et de contrôle d'accès . Et de façon tout à fait pragmatique, c’était par la même occasion une façon d’assurer la sécurité des données :  il était plus simple de penser son système isolé des autres, afin d’en garder la maîtrise.
 
 C’est ainsi que sont nés et se sont formés les silos qui concentrent notre web actuel.
 
-# Pourquoi les silos sont problématiques ?
+## Pourquoi les silos sont problématiques ?
 
 Un silo, c’est comme une boite hermétique. Par exemple, Facebook est un silo. Tous vos amis sont enfermés dedans. Si vous devez choisir un réseau social, vous allez aller dans la boîte où sont vos amis même si d'autres boites vous paraissent plus en phase avec vos valeurs. Plus cette boite grandit, plus elle rend inutile l’exploration d’autres boites, et plus on leur donne de la donnée, plus elle est incontournable.
 
@@ -46,7 +46,7 @@ De plus, cette dernière est fragmentée parce qu'elle est cloisonnée, dispers�
 
 Ainsi il devient très difficile d’accéder à toutes vos données et de les utiliser pour votre compte. Votre marge de manœuvre dans votre usage du web est de plus en plus limitée. L’espace de partage de l'information et de la liberté est désormais celui qui est défini par quelques grandes firmes américaines.
 
-# Qu’est ce que propose Tim Berners Lee ?
+## Qu’est ce que propose Tim Berners Lee ?
 
 SOLID signifie Social Linked Data.
 
@@ -64,13 +64,13 @@ Reprendre la main sur ses données, cela signifie que vous pouvez partager certa
 
 Dans la communauté SOLID Monde, il y a un concept structurant qui est la notion de POD, pour Personal Online Datastore, un endroit unique où l’on peut stocker son identité et ses données. Au sein de la communauté francophone qui se forme autour de cette vision partagée de ce que devrait être le web, nous ajoutons au concept de POD celui de COD pour Collective Online Datastore. Les CODs permettent l'hébergement des données communautaires : Ni publiques, ni privées, celles-ci sont le fruit des organisations entendues au sens large.
 
-# Les perspectives
+## Les perspectives
 
 Les perspectives de ce changement de paradigme sont abyssales, nous en donnons quelques exemples ici.
 
 La première et majeure avancée concerne la gestion des données personnelles.
 
-## RGPD et Sécurité
+### RGPD et Sécurité
 
 Le RGPD est une superbe opportunité pour l’écosystème SOLID. Les contraintes juridiques qu’il pose ne sont assimilables que par les entreprises qui ont les moyens de s’y conformer. Avec SOLID, l’inégalité de moyens face à la mise aux normes juridiques n’a plus lieu d’être car c’est dans l’architecture même de l’application que le respect des données personnelles est assuré.
 
@@ -79,7 +79,7 @@ Considération culturelle et relocalisation
 
 Si nous sommes libres d’utiliser l’application qui nous plait sans être contraint par l’effet de réseau, nous pouvons imaginer une relocalisation et une adaptation fine des interfaces. Des interfaces qui pourraient être locales, multiples, plurielles, fonction des cultures et des usages. Accorder sa confiance ou non, se déciderait à l’échelle des communautés qu’elles soient territoriales ou culturelles. Et l’open source pourrait prendre tout son sens pour davantage d’inclusivité sur le web.
 
-## Gouvernance
+### Gouvernance
 
 Si nos données personnelles sortent de la possession des entreprises qui les exploitent et que nous pouvons en reprendre la maîtrise, cela implique que nous avons la possibilité d'adresser avec un champ de possibles beaucoup plus ouvert sur le sujet de la gouvernance des données. Comment allons-nous aménager cette reprise de liberté de notre identité numérique ? Comment allons-nous gérer la modération dans un monde décentralisé ?
 

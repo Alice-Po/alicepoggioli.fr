@@ -17,7 +17,7 @@ Nous considérons l’interopérabilité de ces systèmes de communication parfa
 Aujourd’hui, nos applications ne se parlent pas. L’absence d’interopérabilité a des impacts sur le Web et sur l’économie du numérique en général, mais également sur les organisations et leur capacité à s’organiser et à coopérer.
 
 C’est à partir de ce constat qu’est né le projet Solid (SOcial LInked Data), proposé par Tim Berners-Lee en 2015. Inquiet face aux dérives actuelles du Web et de l’emprise croissante de quelques entreprises mondiales sur la circulation de l’information et les données personnelles de chacun, Tim a entrepris de refonder l’architecture technique du Web sur les principes de décentralisation et d’interopérabilité.
-# Le Web des données
+## Le Web des données
 Pour comprendre cette révolution, il faut évoquer le Web des données, une initiative du W3C visant à favoriser la publication de données structurées sur le Web en évitant les silos de données isolées les unes des autres. L’objectif du Web des données est de mettre en relation les données, quel que soit leur lieu de stockage, afin de constituer un réseau universel de l'information. 
 
 C’est le Web sémantique qui permet de cette mise en relation, en dotant les données de définitions permettant à des machines d’effectuer des recherches contextualisées. Le Web sémantique s’appuie sur un langage appelé RDF (Resource Definition Framework) qui permet de décrire les relations des données entre elles sous la forme de triplets : sujet - prédicat - objet. RDF peut utiliser plusieurs syntaxes telles que XML ou JsonLD pour représenter ces relations.
@@ -31,15 +31,15 @@ Mais la sémantisation des données ne fait pas tout. Il existe plusieurs implé
 C’est ici qu’entre en jeu le projet Solid.
 
 
-## Le projet Solid
+### Le projet Solid
 Créé par Tim Berners-Lee en 2015 au MIT, et aujourd’hui porté par un groupe de travail du W3C, Solid est un standard d’API facilitant les interactions entre applications à partir des données sémantiques. Avec Solid, il n’est plus nécessaire de développer une API spécifique pour chaque application afin d’accéder à ses données, traditionnellement servies par le backend de l’application et demeurant sous le contrôle de l’entreprise qui l’opère. A la place, les utilisateurs décident du point de stockage (“pods”) de leurs données et autorisent les applications à y accéder. Les pods sont des sources de données indépendantes du fournisseur de l’application, qui n’a pas besoin de se les approprier pour rendre le service qu’on attend de lui.
 
 
-## WebID et pods
+### WebID et pods
 WebID est un identifiant unique associé à une personne ou une organisation. Chacun peut héberger cet identifiant sur son propre serveur d’identité, ou déléguer cette fonction à un fournisseur tiers (“WebID provider”). La gestion d’identité repose sur des standards ouverts (FOAF pour le profil, OpenID pour l’authentification, Web Access Control pour les droits d’accès) afin de maintenir l’interopérabilité entre utilisateurs, données et applications, et l’indépendance de l’utilisateur vis-à-vis du fournisseur d’identité.
 
 Le “pod” désigne l’espace où sont stockées les données d’un utilisateur associées à un WebID, donc d’une personne ou d’une organisation. Le Pod provider peut être le même que le WebID provider, ou bien ils peuvent être distincts, chaque utilisateur pouvant en décider.
-## Reprendre la main sur ses données
+### Reprendre la main sur ses données
 Le modèle actuel du Web conduit à la concentration du pouvoir entre les mains d’acteurs centralisés, qui fournissent des services souvent gratuits en contrepartie de l’accès à nos données personnelles qu’ils monétisent. Google ou Facebook, par exemple, jouent aujourd’hui un rôle de fournisseur d’identité, non seulement concernant leurs propres services, mais aussi vis-à-vis de centaines d’applications tierces. Ces acteurs dominants collectent de l’information sur notre activité sociale et notre consommation de services et d’information, en dehors des services qu’ils proposent eux-mêmes.
 
 Cette connaissance intime de chaque personne s’assimile à une forme de surveillance extrême, dont on a vu les dangers en matière de manipulation à des fins mercantiles ou politiques.
@@ -51,7 +51,7 @@ Enfin, l’hyper-concentration des applications Web conduit à l’uniformité d
 Solid change radicalement l’architecture des applications Web en faveur de l’autonomie des individus, dont l’identité et les données retournent sous leur seul contrôle. Loin d’être un changement sur le seul plan technique, Solid pourrait transformer en profondeur l’économie du numérique, au détriment des modèles basés sur l’exploitation massive des données des utilisateurs.
 
 Avec Solid, le succès d’un projet ne peut plus reposer sur la capture et la rétention des données afin d’en extraire une rente économique. L’enjeu devient l’exploitation intelligente de ces données afin de fournir un service pertinent à un utilisateur désormais émancipé.
-# Solid et les organisations
+## Solid et les organisations
 S’il est facile d’imaginer le potentiel émancipateur de Solid concernant les individus utilisateurs, consommateurs et citoyens, qu’en est-il des organisations ? Le modèle de Web distribué proposé par Tim Berners-Lee a-t-il également des vertus pour les entreprises ? Peut-il accompagner leur transformation en facilitant la coopération entre organisations ?
 
 
