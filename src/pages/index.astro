@@ -136,24 +136,6 @@ const stack = [
         </div>
       </section>
 
-      <!-- Tech Stack Section -->
-      <section class="animate">
-        <div class="space-y-4">
-          <p class="font-semibold text-black dark:text-white">
-            Site web construit avec 
-          </p>
-          <div class="flex flex-wrap items-center gap-2 mt-5">
-            {stack.map(item => (
-              <StackCard 
-                text={item.text}
-                icon={item.icon}
-                href={item.href}
-              />
-            ))}
-          </div>
-        </div>
-      </section>
-
       <!-- Project Preview Section -->
       <!-- <section class="animate">
         <div class="space-y-4">
@@ -222,6 +204,24 @@ const stack = [
               </div>
             ))}
         </div> -->
+      </section>
+      
+       <!-- Tech Stack Section -->
+       <section class="animate">
+        <div class="space-y-4">
+          <p class="font-semibold text-black dark:text-white">
+            Site web construit avec 
+          </p>
+          <div class="flex flex-wrap items-center gap-2 mt-5">
+            {stack.map(item => (
+              <StackCard 
+                text={item.text}
+                icon={item.icon}
+                href={item.href}
+              />
+            ))}
+          </div>
+        </div>
       </section>
     </div>
   </div>
