@@ -10,4 +10,8 @@ demoUrl: https://la-rab.net
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Les rencontres de Science Fiction de la République Autonome du Bocage est un temps de rencontres qui a lieu fin Janvier dans les environs du pays du Bocage Ornais et dont la programmation se construit sur la base d’un forum ouvert.
+
+Tout le monde est invité, tous les sujets sont abordables, tous les formats sont possibles. Chacun est libre de proposer et de participer à ce qu’il veut, de l’organiser où et avec qui il veut. 
+
+L’intergénérationnel nous tient à cœur . Personne ne se prend la tête ou trop au sérieux, c’est bon enfant et très convivial.
