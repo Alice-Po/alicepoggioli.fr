@@ -7,7 +7,7 @@ import { SITE, SOCIALS } from "@consts"
 import TwinklingStars from "@components/TwinklingStars.astro"
 import MeteorShower from "@components/MeteorShower.astro"
 import { Image } from 'astro:assets';
-import Avatar from './alice-poggioli-comp.png';
+import Avatar from './_alice-poggioli-comp.png';
 
 const posts = (await getCollection("blog"))
   .filter(post => !post.data.draft)
@@ -66,8 +66,6 @@ const stack = [
       <MeteorShower/>
     </div>
   </div>
-
-  <script is:inline src="/js/bg.js"></script>
   
   <!-- HERO -->
   <section class="relative h-screen w-full">
