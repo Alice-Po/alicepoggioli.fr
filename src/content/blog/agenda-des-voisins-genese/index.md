@@ -11,7 +11,7 @@ tags:
 
 Dans cet article, je vais vous raconter la genèse de l’Agenda des Voisins, un mensuel papier du bocage ornais recensant les événements du coin. Produit et distribué dans les boîtes aux lettres par des voisins et dans le but de recréer du lien social là où le numérique l’a rompu.
 
-La fracture numérique est une fracture sociale
+# La fracture numérique est une fracture sociale
 Avant l'arrivée des réseaux sociaux, il y avait le commérage, l’affichage public et le boitage. Pour de multiples raisons les bourgs de campagne se sont vidés et on ne compte plus les cafés à vendre. La désertification des bourgs a fait perdre l'intérêt de l'affichage public et Facebook lui a donné le coup de grâce. Malgré l'obligation d’avoir 4 mètres carré d’affichage libre pour chaque commune de moins de 2000 habitants, mon village n’a plus d’affichage libre. Alors quand on demande au maire d’afficher une affiche dans la salle des fêtes il nous répond : “Il faut vivre avec son époque, et tous les événements autour de chez nous sont annoncés sur les réseaux.”
 
 Est-il vraiment judicieux de déléguer aux algorithmes des grandes plateformes américaines la santé sociale de nos campagnes ? 
@@ -25,7 +25,7 @@ Surtout il y a du fantasme sur cet autre qu’on ne connaît pas et qui votent s
 
 J’avais plein d’espoir sur la capacité d’empuissantement qu’avait le numérique lors de ma prise de poste mais désormais je ne peux que constater la menace existentielle que fait peser le numérique dans la cohésion sociale de nos campagnes, de notre société.
 
-Dans l’intimité des boîtes aux lettres
+# Dans l’intimité des boîtes aux lettres
 Si les grands moments de sociabilité historique arrivent dans les boîtes aux lettres, ce n’est pas un détail. Les animations du comité des fêtes, les réunions publiques sur les déchets.. Bon les exemples ne sont pas fourmillants mais ils révèlent une chose : la manière la plus efficace pour faire circuler l’information de façon inclusive, c’est de passer par la boîte aux lettres. Cette boîte aux lettres est intime. La personne qui l’ouvre fait ce qu’elle veut de l’information mais elle l’a. C’est un mode d’action qui a notamment bien marché pour lancer les ateliers de médiation numérique.
 
 C’est le même constat qu’on fait les paroisses locales. Nous recevons chacune et chacun, tous les 3 mois le journal de la paroisse dans nos boîtes aux lettres. Je suis allée me renseigner sur les systèmes d’information qui mettent en œuvre cette animation bénévole et avec surprise et excitation j’ai appris qu’il n’y avait aucun ou presque support numérique à cette distribution. Peut-être à peine un tableur. La recette ? Le temps long. Ainsi la “bonne parole” est diffusée à travers tout un territoire maillé par un réseau de distributeurs bénévoles animé par la foi. Leur système d’information c’est le temps long et les relations entre les contributeurs. Ils connaissent tous leur parcours et celui de leur voisin. J’ai trouvé cela inspirant.
