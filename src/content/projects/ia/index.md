@@ -11,7 +11,7 @@ tags:
 
 Après un parcours d'abord hésitant puis résistant, j'ai finalement intégré certains outils d'IA dans ma pratique professionnelle. Au-delà de l'effet de mode et des explications techniques qui les réduisent à de simples applications de machine learning, ces technologies représentent un tournant majeur pour l'humanité.
 
-J'aborde l'IA avec responsabilité, cherchant à anticiper son évolution pour éviter ses pièges tout en saisissant ses opportunités. Mon expérience avec Cursor, éditeur de code avec un agent IA embarqué a transformé ma façon de travailler - comme un paysan découvrant le tracteur - me donnant des capacités nouvelles mais créant aussi une forme de dépendance que je n'avais pas anticipée.
+J'aborde l'IA avec responsabilité, cherchant à anticiper son évolution pour éviter ses pièges tout en saisissant ses opportunités. Mon expérience avec un éditeur de code avec un agent IA embarqué a transformé ma façon de travailler - comme un paysan découvrant le tracteur - me donnant des capacités nouvelles mais créant aussi une forme de dépendance que je n'avais pas anticipée.
 
 Cette puissance technique a accéléré mes projets mais a aussi créé un sentiment paradoxal de vide, comme si la facilité de réalisation diluait le sens de l'accomplissement. La question n'est plus tant technique que philosophique et éthique.
 
