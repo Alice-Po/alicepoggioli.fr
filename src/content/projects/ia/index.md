@@ -36,23 +36,31 @@ Fort de mon intérêt pour l'intelligence artificielle et de mon expérience en 
 ## Contactez-moi
 
 <form
-             action="https://formspree.io/f/mjkbnlaz"
-             method="POST"
-           >
-           <label for="email" class="block font-medium leading-6 ">Votre email : </label>
-           <div class="mt-2">
-             <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
-           </div>
-           <div class="col-span-full">
-             <label for="message" class="block leading-6 ">Votre message</label>
-             <div class="mt-2">
-               <textarea id="message" name="message" rows="3" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
-             </div>
-           </div>
-           <div class="mt-6 flex items-center justify-end gap-x-6">
-             <button type="submit"  class="rounded-md px-3 py-2 text-sm font-semibold text-black dark:text-white shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 hover:bg-black/5 hover:dark:bg-white/10 border-black/15 dark:border-white/20 transition-colors duration-300 ease-in-out border">Envoyer</button>
-             </div>
-           </form>
+  action="https://formspree.io/f/mjkbnlaz"
+  method="POST"
+>
+  <label for="email" class="block font-medium leading-6 ">Votre email : </label>
+  <div class="mt-2">
+    <input id="email" name="email" type="email" autocomplete="email" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6">
+  </div>
+  <div class="col-span-full">
+    <label for="message" class="block leading-6 ">Votre message</label>
+    <div class="mt-2">
+      <textarea id="message" name="message" rows="3" class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"></textarea>
+    </div>
+  </div>
+  <div class="mt-6 flex items-center justify-end gap-x-6">
+    <button type="submit"  class="rounded-md px-3 py-2 text-sm font-semibold text-black dark:text-white shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 hover:bg-black/5 hover:dark:bg-white/10 border-black/15 dark:border-white/20 transition-colors duration-300 ease-in-out border">Envoyer</button>
+  </div>
+</form>
+
+## Découvrez les Café IA
+
+![Logo Café IA](AnimResized.gif)
+
+Un Café IA c'est très simple : où qu'il soit organisé, c'est à la fois un espace d'écoute et de rencontre, un moment de débat et d'échange, une plateforme de mise en commun et d'apprentissage. Un Café IA est informel, frugal, pour toutes et tous et gratuit pour ses bénéficiaires.
+
+[Découvrir Café IA ↗](https://cafeia.org/)
 
 ## Guide pour un bon usage des chatbots utilisant l'intelligence artificielle
 
