@@ -1,7 +1,7 @@
 ---
 title: 'Veille et accompagnement aux usages émergents de l’Intelligence artificielle'
 summary: "Mon positionnement, mes expériences et mes propositions d'accompagnement."
-date: 'may 2024'
+date: 'mars 2025'
 draft: false
 tags:
   - intelligence artificielle
