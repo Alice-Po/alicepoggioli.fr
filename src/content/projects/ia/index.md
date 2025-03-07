@@ -27,7 +27,7 @@ Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en
 
 ## Mes propositions d'accompagnement
 
-Fort de mon intérêt pour l'intelligence artificielle et de mon expérience en médiation numérique auprès de publics variés , je propose plusieurs formats d'accompagnement :
+Forte de mon intérêt pour l'intelligence artificielle et de mon expérience en médiation numérique auprès de publics variés , je propose plusieurs formats d'accompagnement :
 
 - **Animation de Cafés IA** : Sessions de sensibilisation selon le format développé par le Conseil National du Numérique - espaces d'échange informels et accessibles permettant le partage de connaissances sur l'IA.
 - **Ateliers collaboratifs pour l'élaboration de règlements intérieurs IA** : Démarche structurée partant des préoccupations et pratiques existantes pour définir collectivement un cadre d'utilisation responsable, limitant les usages non déclarés potentiellement préjudiciables.
