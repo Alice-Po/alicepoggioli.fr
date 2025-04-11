@@ -35,6 +35,12 @@ Les objectifs :
 
 Chaque participant repart avec un support pratique contenant les points clés et des exercices pour continuer la réflexion. [Voici un exemple à imprimer](/fanzine-prevention-numerique.pdf) (recto-verso sur bords longs).
 
+## Ma Méthode
+
+- **Animation participative** : Mes ateliers sont conçus comme des espaces de dialogue plutôt que des cours magistraux. Je crée un cadre de confiance collective où chacun peut s'exprimer librement, tout en guidant subtilement la conversation vers les thématiques essentielles.
+- **Adaptation constante** : Chaque groupe est unique. J'observe, j'écoute et j'ajuste mon intervention en temps réel pour répondre aux préoccupations spécifiques des participants, qu'il s'agisse de lycéens, de seniors ou de professionnels.
+- **De la prise de conscience à l'action** : Au-delà de la sensibilisation, mes ateliers débouchent systématiquement sur des solutions pratiques. Les participants repartent avec des outils concrets qui leur permet de prolonger la réflexion et d'implémenter des changements durables.
+
 ## Contactez-moi
 
 <form
