@@ -21,7 +21,7 @@ Aprés trois ans en tant que conseillère numérique locale pour la Fabrique du 
 
 ### Zoom sur les 16-25ans
 
-À la Mission Locale de Flers, j'anime depuis deux ans des ateliers explorant les liens entre santé mentale et pratiques numériques. La séance s'ouvre par un temps d'introspection guidée — les participants complètent [un questionnaire](/fanzine-prevention-numerique.pdf) sur leur relation aux écrans avant de partager, à leur rythme, les points qui ont résonné en eux.
+À la Mission Locale de Flers, j'anime depuis deux ans des ateliers explorant les liens entre santé mentale et pratiques numériques. La séance s'ouvre par un temps d'introspection guidée — les participants complètent [un questionnaire](/quizz-ton-smartpohone-et-toi.pdf) sur leur relation aux écrans avant de partager, à leur rythme, les points qui ont résonné en eux.
 Loin des approches culpabilisantes, je crée un espace de dialogue où chacun peut s'exprimer librement et approfondir sa compréhension des mécanismes d'hyperconnexion qui caractérisent leur génération.
 La session se conclut par l'échange des stratégies personnelles des uns et des autres pour adopter une meilleur hygiène numérique et cultiver un rapport plus conscient aux technologies.
 
@@ -34,7 +34,6 @@ Les objectifs :
 - **Cultiver l'équilibre** : activités "flow", méditation, routines de déconnexion
 
 Chaque participant repart avec un support pratique contenant les points clés et des exercices pour continuer la réflexion. [Voici un exemple à imprimer](/fanzine-prevention-numerique.pdf) (recto-verso sur bords longs).
-quizz-ton-smartpohone-et-toi.pdf
 
 ## Contactez-moi
 
