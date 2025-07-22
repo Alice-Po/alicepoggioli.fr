@@ -19,9 +19,10 @@ Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en
 
 ## Mes expériences
 
-- **Développement web assisté par un agent IA** — Intégration parcimonieuse des outils d'IA dans mes projets de programmation avec un prompt système personnel
+- **Développement web assisté par un agent IA** — Intégration des outils d'IA dans mes projets de programmation avec une réfexion et un usage poussé de l'ingénieurie de contexte
+- **Mise en oeuvre de modèle** — Usage avancé de modèle de NLP, LLM et d'embedding au sein de cas d'usages concrets. Utilisation de bases de données vectorielles
 - **Médiation numérique** — Dés fin 2022, animation d'ateliers de sensibilisation et formation sur l'IA auprès de publics variés (adolescents, seniors, étudiants, entrepreneurs)
-- **Élaboration de cadres d'usage** — Collaboration avec la Mission Locale de Flers pour définir un règlement intérieur encadrant l'utilisation de l'IA dans leurs services et relations avec les jeunes
+- **Élaboration de cadres d'usage** — Définition de règlements intérieurs encadrant l'utilisation de l'IA dans plusieurs structures
 - **Veille active** — Participation aux animations inter-animateurs de "Cafés IA" du Conseil National du Numérique et suivi canaux de veille spécialisés.
 - **Conception de prompts spécialisés** — Création de bibliothèques de prompts adaptés à différents contextes et besoins
 
@@ -29,9 +30,10 @@ Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en
 
 Forte de mon intérêt pour l'intelligence artificielle et de mon expérience en médiation numérique auprès de publics variés , je propose plusieurs formats d'accompagnement :
 
-- **Animation de Cafés IA** : Sessions de sensibilisation selon le format développé par le Conseil National du Numérique - espaces d'échange informels et accessibles permettant le partage de connaissances sur l'IA.
+- **[Animation de Cafés IA](https://cafeia.org/)** : Sessions de sensibilisation selon le format développé par le Conseil National du Numérique - espaces d'échange informels et accessibles permettant le partage de connaissances sur l'IA.
+- **[Bataille de l'IA](https://www.batailledelia.org/)** : Un jeu de cartes pour explorer les enjeux sociaux et environnementaux de l'IA Générative en 2h – imaginé par les associations Latitudes et Data for Good.
 - **Ateliers collaboratifs pour l'élaboration de règlements intérieurs IA** : Démarche structurée partant des préoccupations et pratiques existantes pour définir collectivement un cadre d'utilisation responsable, limitant les usages non déclarés potentiellement préjudiciables.
-- **Accompagnement personnalisé** : Adaptation aux besoins spécifiques exprimés par votre organisation pour intégrer l'IA de façon réfléchie.
+- **Accompagnement personnalisé** : Adaptation aux besoins spécifiques exprimés par votre organisation pour intégrer (ou pas) l'IA de façon réfléchie.
 
 ## Contactez-moi
 
@@ -54,13 +56,23 @@ Forte de mon intérêt pour l'intelligence artificielle et de mon expérience en
   </div>
 </form>
 
-## Découvrez les Café IA
+## Les Café IA
 
 ![Logo Café IA](AnimResized.gif)
 
-Un Café IA c'est très simple : où qu'il soit organisé, c'est à la fois un espace d'écoute et de rencontre, un moment de débat et d'échange, une plateforme de mise en commun et d'apprentissage. Un Café IA est informel, frugal, pour toutes et tous et gratuit pour ses bénéficiaires.
+Café IA est une plateforme collaborative d'apprentissage portée par le [conseil national du numérique](https://cnnumerique.fr/), qui favorise la mise en commun des réflexions autour de l'intelligence artificielle. Chaque Café IA peut prendre des formes très variées selon vos besoins et vos objectifs, offrant ainsi une grande liberté d'adaptation à votre contexte spécifique. Animer un Café IA au sein de votre structure, c'est créer un parcours en trois temps : d'abord un espace d'écoute et de dialogue pour favoriser les échanges, puis un moment de sensibilisation pour démystifier les réalités et enjeux de l'IA, et enfin une phase d'action collective visant à structurer un positionnement partagé, souvent matérialisé par l'ébauche d'un règlement intérieur. Cette démarche reste accessible à tous : informelle dans son approche, simple à mettre en œuvre et gratuite pour les participants
 
-[Découvrir Café IA ↗](https://cafeia.org/)
+[Découvrez les ressources des Café IA ↗](https://cafeia.org/)
+
+
+## La bataille de l'IA
+
+![Logo Bataille de l'IA](Logo-Bataille-IA.png)
+
+La Bataille de l'IA est un jeu de cartes participatif développé par les associations Latitudes et Data for Good, conçu pour explorer de manière ludique les enjeux sociaux et environnementaux de l'intelligence artificielle générative en deux heures d'atelier. Cette approche pédagogique collaborative permet d'aborder cinq thématiques essentielles - fiabilité de l'information, société et données personnelles, créativité et propriété intellectuelle, biais algorithmiques, et impact environnemental - à travers trois temps forts : la découverte des faits marquants de l'IA sur une frise chronologique, des débats en petits groupes sur les enjeux sociétaux, et enfin des scénarios prospectifs invitant à une réflexion collective sur l'avenir de l'IA. Cet outil de sensibilisation, basé sur des sources fiables et déjà testé auprès de plus de 3000 personnes, favorise l'esprit critique et le dialogue tout en restant accessible grâce à un réseau d'animateurs formés présents sur l'ensemble du territoire.
+
+[Découvrir La Bataille de l'IA ↗](https://www.batailledelia.org/)
+
 
 ## Guide pour un bon usage des chatbots utilisant l'intelligence artificielle
 
