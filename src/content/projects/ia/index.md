@@ -20,7 +20,7 @@ Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en
 ## Mes expériences
 
 - **Développement web assisté par un agent IA** — Intégration des outils d'IA dans mes projets de programmation avec une réfexion et un usage poussé de l'ingénieurie de contexte
-- **Mise en oeuvre de modèle** — Usage avancé de modèle de NLP, LLM et d'embedding au sein de cas d'usages concrets. Utilisation de bases de données vectorielles
+- **Mise en oeuvre de modèle** — Usage avancé de modèle de NLP, LLM et d'embedding au sein de cas d'usages concrets. Utilisation de bases de données vectorielles. Python et Javascript.
 - **Médiation numérique** — Dés fin 2022, animation d'ateliers de sensibilisation et formation sur l'IA auprès de publics variés (adolescents, seniors, étudiants, entrepreneurs)
 - **Élaboration de cadres d'usage** — Définition de règlements intérieurs encadrant l'utilisation de l'IA dans plusieurs structures
 - **Veille active** — Participation aux animations inter-animateurs de "Cafés IA" du Conseil National du Numérique et suivi canaux de veille spécialisés.
