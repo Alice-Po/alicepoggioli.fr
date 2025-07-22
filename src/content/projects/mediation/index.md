@@ -1,7 +1,7 @@
 ---
 title: 'Médiation numérique'
 summary: "Mon expertise et mon approche"
-date: 'Avril 2025'
+date: 'Septembre 2021'
 draft: false
 tags:
   - médiation numérique
