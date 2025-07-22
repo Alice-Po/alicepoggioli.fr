@@ -9,8 +9,6 @@ tags:
 
 ---
 
-# L'Agenda des Voisins
-
 ## Le projet en bref
 
 L'Agenda des Voisins est un agenda de voisinage participatif qui rend visibles les événements locaux entre Flers, Briouze et Argentan afin de favoriser les rencontres, créer du lien et permet à chacun de découvrir et participer à la vie locale quel que soit son degré de connexion au monde numérique.
