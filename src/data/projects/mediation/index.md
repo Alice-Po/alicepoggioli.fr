@@ -1,6 +1,6 @@
 ---
 title: 'Médiation numérique'
-summary: "Mon expertise et mon approche"
+summary: 'Mon expertise et mon approche'
 date: 'Septembre 2021'
 draft: false
 tags:
@@ -8,8 +8,8 @@ tags:
 ---
 
 ## Mon expertise
-Aprés trois ans en tant que conseillère numérique locale pour la Fabrique du Bocage, réseau de Tiers Lieux du Bocage Ornais, j'accompagne encore collectivités, associations, entreprises et particuliers dans leur relation au numérique. Je m'adapte à tous les publics, des collégiens aux seniors, en passant par les élus et entrepreneurs, pour favoriser l'inclusion numérique et développer des usages utils et conscients des technologies.
 
+Aprés trois ans en tant que conseillère numérique locale pour la Fabrique du Bocage, réseau de Tiers Lieux du Bocage Ornais, j'accompagne encore collectivités, associations, entreprises et particuliers dans leur relation au numérique. Je m'adapte à tous les publics, des collégiens aux seniors, en passant par les élus et entrepreneurs, pour favoriser l'inclusion numérique et développer des usages utils et conscients des technologies.
 
 ## Mes Services
 
@@ -17,23 +17,6 @@ Aprés trois ans en tant que conseillère numérique locale pour la Fabrique du 
 - **Structuration de systèmes d'information** inclusifs pour collectifs et organisations
 - **Ateliers de sensibilisation** aux enjeux du numérique (santé mentale, vie privée, désinformation)
 - [**Sensibilisation aux outils d'intelligence artificielle**](https://www.alicepoggioli.fr/projects/ia) et leurs usages pratiques
-- **Accompagnement de Tiers-Lieux** dans leur développement numérique
-
-### Zoom sur les 16-25ans
-
-À la Mission Locale de Flers, j'anime depuis deux ans des ateliers explorant les liens entre santé mentale et pratiques numériques. La séance s'ouvre par un temps d'introspection guidée — les participants complètent [un questionnaire](/quizz-ton-smartpohone-et-toi.pdf) sur leur relation aux écrans avant de partager, à leur rythme, les points qui ont résonné en eux.
-Loin des approches culpabilisantes, je crée un espace de dialogue où chacun peut s'exprimer librement et approfondir sa compréhension des mécanismes d'hyperconnexion qui caractérisent leur génération.
-La session se conclut par l'échange des stratégies personnelles des uns et des autres pour adopter une meilleur hygiène numérique et cultiver un rapport plus conscient aux technologies.
-
-Les objectifs : 
-
-- **Comprendre les mécanismes** : économie de l'attention, circuit de la dopamine, dark patterns
-- **Partager nos expériences** : temps d'écran, impact émotionnel, FOMO, comparaison sociale
-- **Explorer des stratégies concrètes** : mode avion programmé, application de contrôle de temps d'écran, paramétrage des notifications
-- **Reprendre le contrôle** : filtres d'information, bulles algorithmiques, protection de la vie privée
-- **Cultiver l'équilibre** : activités "flow", méditation, routines de déconnexion
-
-Chaque participant repart avec un support pratique contenant les points clés et des exercices pour continuer la réflexion. [Voici un exemple à imprimer](/fanzine-prevention-numerique.pdf) (recto-verso sur bords longs).
 
 ## Ma Méthode
 

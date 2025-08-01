@@ -15,7 +15,7 @@ J'aborde l'IA avec responsabilité, cherchant à anticiper son évolution pour �
 
 Cette puissance technique a accéléré mes projets mais a aussi créé un sentiment paradoxal de vide, comme si la facilité de réalisation diluait le sens de l'accomplissement. La question n'est plus tant technique que philosophique et éthique.
 
-Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en reconnaissant ses implications écologiques et sociales, je préfère contribuer à définir une utilisation responsable plutôt que de simplement m'y opposer. Ce que je propose, c'est une "hygiène de l'IA" permettant d'en tirer le meilleur tout en se préservant de ses écueils.
+Je ne rejette pas l'IA, car son existence est désormais incontournable. Tout en reconnaissant ses implications écologiques et sociales, je préfère contribuer à définir une utilisation responsable plutôt que de simplement m'y opposer. Ce que je recherche, avec prudence, c'est une "hygiène de l'IA" permettant d'en tirer le meilleur tout en se préservant de ses écueils.
 
 ## Mes expériences
 
@@ -65,7 +65,6 @@ Conformément aux règles des Cafés IA, l'animation doit rester gratuite pour l
 
 [Découvrez les ressources des Café IA ↗](https://cafeia.org/)
 
-
 ## La bataille de l'IA
 
 ![Logo Bataille de l'IA](Logo-Bataille-IA.png)
@@ -75,7 +74,6 @@ La Bataille de l'IA est un jeu de cartes participatif développé par les associ
 J'ai suivis les formations de Lattitudes et je suis une animatrice validée de la Bataille de l'IA.
 
 [Découvrir La Bataille de l'IA ↗](https://www.batailledelia.org/)
-
 
 ## Guide pour un bon usage des chatbots utilisant l'intelligence artificielle
 

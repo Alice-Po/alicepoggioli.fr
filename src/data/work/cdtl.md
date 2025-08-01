@@ -1,7 +1,7 @@
 ---
-company: "La compagnie des Tiers-Lieux"
-role: "Contributrice"
-dateStart: "01/07/2023"
+company: 'La compagnie des Tiers-Lieux'
+role: 'Contributrice'
+dateStart: '01/07/2024'
 dateEnd: "Aujourd'hui"
 ---
 
