@@ -1,35 +1,37 @@
-import type { CollectionEntry } from "astro:content"
-import { createEffect, createSignal, For } from "solid-js"
-import ArrowCard from "@components/ArrowCard"
-import { cn } from "@lib/utils"
+import type { CollectionEntry } from 'astro:content';
+import { createEffect, createSignal, For } from 'solid-js';
+import ArrowCard from '@components/ArrowCard';
+// import { cn } from '@lib/utils';
 
 type Props = {
-  tags: string[]
-  data: CollectionEntry<"blog">[]
-}
+  tags: string[];
+  data: CollectionEntry<'blog'>[];
+};
 
-export default function Blog({ data, tags }: Props) {
-  const [filter, setFilter] = createSignal(new Set<string>())
-  const [posts, setPosts] = createSignal<CollectionEntry<"blog">[]>([])
+export default function Blog({ data }: Props) {
+  const [filter] = createSignal(new Set<string>());
+  // export default function Blog({ data, tags }: Props) {
+  //   const [filter, setFilter] = createSignal(new Set<string>());
+  const [posts, setPosts] = createSignal<CollectionEntry<'blog'>[]>([]);
 
   createEffect(() => {
-    setPosts(data.filter((entry) => 
-      Array.from(filter()).every((value) => 
-        entry.data.tags.some((tag:string) => 
-          tag.toLowerCase() === String(value).toLowerCase()
+    setPosts(
+      data.filter((entry) =>
+        Array.from(filter()).every((value) =>
+          entry.data.tags.some((tag: string) => tag.toLowerCase() === String(value).toLowerCase())
         )
       )
-    ))
-  })
+    );
+  });
 
-  function toggleTag(tag: string) {
-    setFilter((prev) => 
-      new Set(prev.has(tag) 
-        ? [...prev].filter((t) => t !== tag) 
-        : [...prev, tag]
-      )
-    )
-  }
+  // function toggleTag(tag: string) {
+  //   setFilter((prev) =>
+  //     new Set(prev.has(tag)
+  //       ? [...prev].filter((t) => t !== tag)
+  //       : [...prev, tag]
+  //     )
+  //   )
+  // }
 
   return (
     <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -68,5 +70,5 @@ export default function Blog({ data, tags }: Props) {
         </div>
       </div>
     </div>
-  )
+  );
 }

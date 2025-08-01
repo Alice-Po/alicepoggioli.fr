@@ -1,12 +1,13 @@
 ---
 title: "L'Agenda des Voisins"
-summary: "Agenda papier ultra-local"
-date: "May 2024"
+summary: 'Agenda papier ultra-local'
+date: 'May 2024'
 draft: false
 tags:
-- Réseaux locaux
-- Participation
+  - Réseaux locaux
+  - Participation
 
+demoUrl: https://agendadesvoisins.fr
 ---
 
 ## Le projet en bref
@@ -27,17 +28,18 @@ Né en mai 2024, ce projet était initialement une action de médiation numériq
 
 **Distribution** : Dans des lieux de vie clefs et dans des boîtes aux lettres qui sont desservies chaque mois par un réseau de distributeurs bénévoles.
 
-**Collecte d'informations** : Utilisation d'[OpenAgenda]([https://openagenda.com](https://openagenda.com/fr/agenda-des-voisins)) pour un agenda contributif permettant à chacun de proposer ses événements.
+**Collecte d'informations** : Utilisation d'[OpenAgenda](<[https://openagenda.com](https://openagenda.com/fr/agenda-des-voisins)>) pour un agenda contributif permettant à chacun de proposer ses événements.
 
 ## Aspects techniques
 
 Le projet se distingue par la **diversité des moyens de mise en page** utilisés :
+
 - InDesign
-- Microsoft Publisher  
+- Microsoft Publisher
 - LaTeX
 - Python
 
-Cette approche permet au projet d'être plus robuste car nous sommes moins dépendants de quelques bénévoles aux compétences rares. 
+Cette approche permet au projet d'être plus robuste car nous sommes moins dépendants de quelques bénévoles aux compétences rares.
 
 ## Pérennité
 
@@ -50,4 +52,5 @@ Ce projet illustre que **quand on fait quelque chose d'utile, l'appel d'air nous
 ---
 
 **Pour en savoir plus :**
+
 - [Visitez le site web de l'Agenda des Voisins](https://www.agendadesvoisins.fr/)
