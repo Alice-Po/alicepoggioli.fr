@@ -1,4 +1,6 @@
 # Alice Poggioli's website
+Inspired by https://astro.build/themes/details/astrosphere/
+
 ## 📋 Features
 
 - ✅ 100/100 Lighthouse performance
